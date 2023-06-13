@@ -1,0 +1,22 @@
+.home-bg-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  color: #e0eefe;
+  font-size: 46px;
+}
+
+.digital-card {
+  width: 500px;
+}
